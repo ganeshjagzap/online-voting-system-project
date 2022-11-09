@@ -1,0 +1,39 @@
+
+body{
+    text-align: center;
+    background-color: rgb(206, 206, 189);
+}
+#headersection{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding: 12px;
+  margin: 5px;
+}
+
+input{
+    padding: 10px;
+    border-radius: 5px;
+}
+select{
+    margin-top:15px ;
+    padding: 10px;
+      
+    width: 12%;
+}
+button{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(164, 144, 117);
+    color: rgb(28, 32, 32);
+    
+}
+#addre{
+    width: 26%;
+}
+#image{
+    padding: 8px;
+    border: 2px solid;
+    border-radius: 5px;
+    
+    width: 26%;
+  
+}
